@@ -1,5 +1,3 @@
-// huffman_utility.h
-
 #ifndef HUFFMAN_UTILITY_H
 #define HUFFMAN_UTILITY_H
 
@@ -34,4 +32,4 @@ void compressFile(const char* inputFileName, const char* outputFileName);
 MinHeapNode* readHuffmanTree(FILE* inputFile);
 void decompressFile(const char* inputFileName, const char* outputFileName);
 
-#endif // HUFFMAN_UTILITY_H
+#endif
