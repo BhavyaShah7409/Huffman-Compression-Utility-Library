@@ -1,5 +1,3 @@
-// huffman_utility.c
-
 #include "huffman_utility.h"
 #include <stdio.h>
 #include <stdlib.h>
